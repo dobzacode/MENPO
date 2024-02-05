@@ -3,7 +3,7 @@ import { mdiInstagram, mdiSoundcloud } from "@mdi/js"
 const social = [
   { name: "Sonical Manifest",
   path: "/sonical_release_cover.jpg",
-  href: "https://soundcloud.com/ammut-3000/me-matt-carl-free-download",
+  href: "https://soundcloud.com/men-po/sets/menpo-sonical-manifest-debut-ep",
   isNotIcon: true,
 },
     {
