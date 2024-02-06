@@ -1,4 +1,4 @@
-import { mdiInstagram, mdiSoundcloud } from "@mdi/js"
+import { mdiInstagram, mdiSoundcloud, mdiSpotify } from "@mdi/js"
 
 const social = [
   { name: "Sonical Manifest",
@@ -11,11 +11,11 @@ const social = [
       path: mdiInstagram,
       href: "https://www.instagram.com/menpo__/",
     },
-    // {
-    //   name: "Spotify",
-    //   path: mdiSpotify,
-    //   href: "https://open.spotify.com/intl-fr/artist/5abcZtaPYTfNSI0c42JQft",
-    // },
+    {
+      name: "Spotify",
+      path: mdiSpotify,
+      href: "https://open.spotify.com/intl-fr/artist/5ZhljEM4CEmajPohWMvKlj",
+    },
     {
       name: "Soundcloud",
       path: mdiSoundcloud,
