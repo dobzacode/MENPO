@@ -5,7 +5,7 @@
 
 > Explore Menpo's landing page, a sleek and simple presentation of the artist's social media profiles, crafted with Next.js and Tailwind CSS.
 
-### ✨ [Visit Ammut](menpo.fr)
+### ✨ [Visit Menpo](menpo.fr)
 
 ## Features
 
