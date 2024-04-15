@@ -1,6 +1,11 @@
 import { mdiInstagram, mdiSoundcloud, mdiSpotify } from "@mdi/js"
 
 const social = [
+  { name: "Neural Modulation",
+  path: "/Menpo - Neural Modulation.png",
+  href: "https://soundcloud.com/men-po/menpo-neural-modulation-free-download",
+  isNotIcon: true,
+},
   { name: "Sonical Manifest",
   path: "/sonical_release_cover.jpg",
   href: "https://soundcloud.com/men-po/sets/menpo-sonical-manifest-debut-ep",
